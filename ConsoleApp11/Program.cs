@@ -10,6 +10,9 @@ namespace ConsoleApp11
     {
         static void Main(string[] args)
         {
+            clsShowArrayList Show = new clsShowArrayList();
+            Show.CaptureData();
+            Show.PrintData();
         }
     }
 }
