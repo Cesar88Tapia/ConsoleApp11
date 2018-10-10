@@ -13,6 +13,12 @@ namespace ConsoleApp11
             clsShowArrayList Show = new clsShowArrayList();
             Show.CaptureData();
             Show.PrintData();
+            //clsShowHashTable ShowH;
+            //ShowH = new clsShowHashTable();
+            //ShowH.AddData();
+            //ShowH.PrintData();
+            //ShowH.DiscardElement("C001");
+            //ShowH.PrintData();
         }
     }
 }

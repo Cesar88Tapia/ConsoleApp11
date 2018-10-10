@@ -24,6 +24,8 @@ namespace ConsoleApp11
                 chain = Console.ReadLine();
                 List.Add(chain);
             }
+            List.Add(1);
+            List.Add(2);
         }
         public void PrintData()
         {
